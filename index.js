@@ -178,7 +178,7 @@ app.use(function (req, res, next) {
     })
 })
 
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0"() => {
     console.log(color("Server running on port " + PORT,'green'))
     schedule.scheduleJob('* * * * *', () => { 
     resetAllLimit()
