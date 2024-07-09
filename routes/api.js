@@ -6,7 +6,7 @@
 - Loli Killers
 - Rynz
 - Eka Danuarta
-- ZeeoneOfc 
+- Ryuuken 
 - danzzcoding [database api] 
 - Creative Time [ For Template ]
 - Dan kalian semua yang memakai script api ini
